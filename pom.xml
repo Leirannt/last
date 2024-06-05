@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mycompany</groupId>
     <artifactId>cotsfinal</artifactId>
-    <version>1.1.0</version> <!-- version place -->
+    <version>1.2.0</version> <!-- version place -->
     <packaging>jar</packaging>
     
     <properties>
@@ -17,7 +17,7 @@
         <repository>
           <id>github</id>
           <name>GitHub Packages</name>
-          <url>https://maven.pkg.github.com/Leirannt/TUGAS_MKEPL</url>
+          <url>https://maven.pkg.github.com/Leirannt/last</url>
         </repository>
     </distributionManagement>
 </project>
